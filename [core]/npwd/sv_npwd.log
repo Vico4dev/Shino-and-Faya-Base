@@ -1,0 +1,87 @@
+{"level":"debug","message":"Marketplace service started","module":"marketplace","timestamp":"2024-12-20T21:01:24.233Z"}
+{"level":"debug","message":"Call service started","module":"calls","timestamp":"2024-12-20T21:01:24.234Z"}
+{"level":"debug","message":"Player Service started","module":"player","timestamp":"2024-12-20T21:01:24.234Z"}
+{"level":"info","message":"Loading NPWD Standalone","timestamp":"2024-12-20T21:01:24.234Z"}
+{"level":"debug","message":"Boot service started","module":"boot","timestamp":"2024-12-20T21:01:24.234Z"}
+{"level":"debug","message":"Messages service started","module":"messages","timestamp":"2024-12-20T21:01:24.234Z"}
+{"level":"debug","message":"Notes service started","module":"notes","timestamp":"2024-12-20T21:01:24.234Z"}
+{"level":"debug","message":"Contacts service started","module":"contact","timestamp":"2024-12-20T21:01:24.234Z"}
+{"level":"debug","message":"Photo service started","module":"photo","timestamp":"2024-12-20T21:01:24.247Z"}
+{"level":"debug","message":"Twitter service started","module":"twitter","timestamp":"2024-12-20T21:01:24.247Z"}
+{"level":"debug","message":"Match service started","module":"match","timestamp":"2024-12-20T21:01:24.247Z"}
+{"level":"debug","message":"Beginning database schema validation","module":"boot","timestamp":"2024-12-20T21:01:24.409Z"}
+{"level":"info","message":"Successfully started","timestamp":"2024-12-20T21:01:24.417Z"}
+{"level":"info","message":"Executed query (SELECT COUNT(*) as count\n                       FROM information_schema.tables\n                       WHERE table_schema = ?\n                         AND table_name = ? [\"fivem_db\",\"characters\"]) in 28.491ms'","module":"DBInterface","timestamp":"2024-12-20T21:01:24.438Z"}
+{"level":"info","message":"Executed query (SHOW COLUMNS IN characters []) in 12.7563ms'","module":"DBInterface","timestamp":"2024-12-20T21:01:24.451Z"}
+{"level":"debug","message":"Database schema successfully validated","module":"boot","timestamp":"2024-12-20T21:01:24.451Z"}
+{"level":"debug","message":"Marketplace service started","module":"marketplace","timestamp":"2024-12-20T21:03:06.828Z"}
+{"level":"debug","message":"Call service started","module":"calls","timestamp":"2024-12-20T21:03:06.829Z"}
+{"level":"debug","message":"Player Service started","module":"player","timestamp":"2024-12-20T21:03:06.829Z"}
+{"level":"info","message":"Loading NPWD Standalone","timestamp":"2024-12-20T21:03:06.829Z"}
+{"level":"debug","message":"Boot service started","module":"boot","timestamp":"2024-12-20T21:03:06.829Z"}
+{"level":"debug","message":"Messages service started","module":"messages","timestamp":"2024-12-20T21:03:06.830Z"}
+{"level":"debug","message":"Notes service started","module":"notes","timestamp":"2024-12-20T21:03:06.830Z"}
+{"level":"debug","message":"Contacts service started","module":"contact","timestamp":"2024-12-20T21:03:06.830Z"}
+{"level":"debug","message":"Photo service started","module":"photo","timestamp":"2024-12-20T21:03:06.841Z"}
+{"level":"debug","message":"Twitter service started","module":"twitter","timestamp":"2024-12-20T21:03:06.841Z"}
+{"level":"debug","message":"Match service started","module":"match","timestamp":"2024-12-20T21:03:06.841Z"}
+{"level":"debug","message":"Beginning database schema validation","module":"boot","timestamp":"2024-12-20T21:03:06.993Z"}
+{"level":"info","message":"Successfully started","timestamp":"2024-12-20T21:03:07.000Z"}
+{"level":"info","message":"Executed query (SELECT COUNT(*) as count\n                       FROM information_schema.tables\n                       WHERE table_schema = ?\n                         AND table_name = ? [\"fivem_db\",\"characters\"]) in 26.865ms'","module":"DBInterface","timestamp":"2024-12-20T21:03:07.020Z"}
+{"level":"info","message":"Executed query (SHOW COLUMNS IN characters []) in 17.5177ms'","module":"DBInterface","timestamp":"2024-12-20T21:03:07.038Z"}
+{"level":"debug","message":"Database schema successfully validated","module":"boot","timestamp":"2024-12-20T21:03:07.038Z"}
+{"level":"debug","message":"Marketplace service started","module":"marketplace","timestamp":"2024-12-20T21:04:21.774Z"}
+{"level":"debug","message":"Call service started","module":"calls","timestamp":"2024-12-20T21:04:21.775Z"}
+{"level":"debug","message":"Player Service started","module":"player","timestamp":"2024-12-20T21:04:21.775Z"}
+{"level":"info","message":"Loading NPWD Standalone","timestamp":"2024-12-20T21:04:21.775Z"}
+{"level":"debug","message":"Boot service started","module":"boot","timestamp":"2024-12-20T21:04:21.775Z"}
+{"level":"debug","message":"Messages service started","module":"messages","timestamp":"2024-12-20T21:04:21.775Z"}
+{"level":"debug","message":"Notes service started","module":"notes","timestamp":"2024-12-20T21:04:21.776Z"}
+{"level":"debug","message":"Contacts service started","module":"contact","timestamp":"2024-12-20T21:04:21.776Z"}
+{"level":"debug","message":"Photo service started","module":"photo","timestamp":"2024-12-20T21:04:21.788Z"}
+{"level":"debug","message":"Twitter service started","module":"twitter","timestamp":"2024-12-20T21:04:21.791Z"}
+{"level":"debug","message":"Match service started","module":"match","timestamp":"2024-12-20T21:04:21.791Z"}
+{"level":"debug","message":"Beginning database schema validation","module":"boot","timestamp":"2024-12-20T21:04:21.919Z"}
+{"level":"info","message":"Successfully started","timestamp":"2024-12-20T21:04:21.926Z"}
+{"level":"info","message":"Executed query (SELECT COUNT(*) as count\n                       FROM information_schema.tables\n                       WHERE table_schema = ?\n                         AND table_name = ? [\"fivem_db\",\"characters\"]) in 25.8198ms'","module":"DBInterface","timestamp":"2024-12-20T21:04:21.945Z"}
+{"level":"info","message":"Executed query (SHOW COLUMNS IN characters []) in 14.8587ms'","module":"DBInterface","timestamp":"2024-12-20T21:04:21.960Z"}
+{"level":"debug","message":"Database schema successfully validated","module":"boot","timestamp":"2024-12-20T21:04:21.960Z"}
+{"level":"info","message":"Executed query (SELECT phoneNumber FROM characters WHERE charId = ? LIMIT 1 [\"1\"]) in 1.8525ms'","module":"DBInterface","timestamp":"2024-12-20T21:04:41.246Z"}
+{"level":"debug","message":"Find user for number generation data >","module":"player","timestamp":"2024-12-20T21:04:41.246Z"}
+{"level":"debug","message":[{"phoneNumber":null}],"module":"player","timestamp":"2024-12-20T21:04:41.246Z"}
+{"level":"debug","message":"Phone number was returned as null, generating new number","module":"player","timestamp":"2024-12-20T21:04:41.246Z"}
+{"level":"info","message":"Executed query (SELECT EXISTS(SELECT * FROM characters WHERE phoneNumber = ?) [\"367-418-9201\"]) in 1.2205ms'","module":"DBInterface","timestamp":"2024-12-20T21:04:41.248Z"}
+{"level":"debug","message":"Phone number generated > 367-418-9201","module":"player","timestamp":"2024-12-20T21:04:41.248Z"}
+{"level":"info","message":"Executed query (UPDATE characters SET phoneNumber = ? WHERE charId = ? [\"367-418-9201\",\"1\"]) in 2.1508ms'","module":"DBInterface","timestamp":"2024-12-20T21:04:41.250Z"}
+{"level":"info","message":"New NPWD Player added through event (1) (1)","module":"player","timestamp":"2024-12-20T21:04:41.250Z"}
+{"level":"debug","message":{"_firstname":"Shino","_identifier":"1","_lastname":"Shino","_phoneNumber":"367-418-9201","source":1,"username":"Lesly Tchao"},"module":"player","timestamp":"2024-12-20T21:04:41.250Z"}
+{"level":"silly","message":"netPromise > npwd:fetchTweets > RequestObj","module":"events","timestamp":"2024-12-20T21:04:41.342Z"}
+{"level":"silly","message":{"data":{"pageId":0},"source":1},"module":"events","timestamp":"2024-12-20T21:04:41.342Z"}
+{"level":"info","message":"Executed query (\n        SELECT *\n        FROM npwd_twitter_profiles\n        WHERE identifier = ?\n        LIMIT 1\n\t\t [\"1\"]) in 1.4281ms'","module":"DBInterface","timestamp":"2024-12-20T21:04:41.344Z"}
+{"level":"warn","message":"Aborted fetching tweets for user 1 because they do not have a profile.","module":"twitter","timestamp":"2024-12-20T21:04:41.344Z"}
+{"level":"silly","message":"Response Promise Event npwd:fetchTweets:dbf4555a-d1a9-4174-8e13-557164debafd (1.8748ms), Data >>","module":"events","timestamp":"2024-12-20T21:04:41.344Z"}
+{"level":"silly","message":{"data":[],"status":"ok"},"module":"events","timestamp":"2024-12-20T21:04:41.344Z"}
+{"level":"silly","message":"netPromise > npwd:getOrCreateTwitterProfile > RequestObj","module":"events","timestamp":"2024-12-20T21:04:41.392Z"}
+{"level":"silly","message":{"data":null,"source":1},"module":"events","timestamp":"2024-12-20T21:04:41.392Z"}
+{"level":"silly","message":"netPromise > phone:getMyProfile > RequestObj","module":"events","timestamp":"2024-12-20T21:04:41.392Z"}
+{"level":"silly","message":{"data":null,"source":1},"module":"events","timestamp":"2024-12-20T21:04:41.392Z"}
+{"level":"silly","message":"netPromise > npwd:fetchMessageGroups > RequestObj","module":"events","timestamp":"2024-12-20T21:04:41.393Z"}
+{"level":"silly","message":{"data":null,"source":1},"module":"events","timestamp":"2024-12-20T21:04:41.393Z"}
+{"level":"silly","message":"netPromise > npwd-contact-getAll > RequestObj","module":"events","timestamp":"2024-12-20T21:04:41.393Z"}
+{"level":"silly","message":{"data":null,"source":1},"module":"events","timestamp":"2024-12-20T21:04:41.393Z"}
+{"level":"info","message":"Executed query (\n        SELECT *\n        FROM npwd_twitter_profiles\n        WHERE identifier = ?\n        LIMIT 1\n\t\t [\"1\"]) in 2.6898ms'","module":"DBInterface","timestamp":"2024-12-20T21:04:41.395Z"}
+{"level":"info","message":"Creating default Twitter profile Shino_Shino for 1","module":"twitter","timestamp":"2024-12-20T21:04:41.396Z"}
+{"level":"info","message":"Executed query (\n        SELECT *,\n               UNIX_TIMESTAMP(updatedAt) AS lastActive\n        FROM npwd_match_profiles\n        WHERE identifier = ?\n        LIMIT 1\n\t\t [\"1\"]) in 5.6655ms'","module":"DBInterface","timestamp":"2024-12-20T21:04:41.398Z"}
+{"level":"info","message":"Creating default match profile Shino Shino for 1","module":"match","timestamp":"2024-12-20T21:04:41.398Z"}
+{"level":"info","message":"Executed query (SELECT npwd_messages_conversations.id,\n                          npwd_messages_conversations.conversation_list         as conversationList,\n                          npwd_messages_participants.unread_count               as unreadCount,\n                          npwd_messages_conversations.is_group_chat             as isGroupChat,\n                          npwd_messages_conversations.label,\n                          UNIX_TIMESTAMP(npwd_messages_conversations.updatedAt) as updatedAt,\n                          npwd_messages_participants.participant\n                   FROM npwd_messages_conversations\n                            INNER JOIN npwd_messages_participants\n                                       on npwd_messages_conversations.id = npwd_messages_participants.conversation_id\n                   WHERE npwd_messages_participants.participant = ? [\"367-418-9201\"]) in 5.7673ms'","module":"DBInterface","timestamp":"2024-12-20T21:04:41.399Z"}
+{"level":"info","message":"Executed query (SELECT * FROM npwd_phone_contacts WHERE identifier = ? ORDER BY display ASC [\"1\"]) in 5.8505ms'","module":"DBInterface","timestamp":"2024-12-20T21:04:41.399Z"}
+{"level":"silly","message":"Response Promise Event npwd:fetchMessageGroups:9c99eaf3-eecd-49a6-bc80-e2ca0eb4cb92 (5.9932ms), Data >>","module":"events","timestamp":"2024-12-20T21:04:41.399Z"}
+{"level":"silly","message":{"data":[],"status":"ok"},"module":"events","timestamp":"2024-12-20T21:04:41.399Z"}
+{"level":"silly","message":"Response Promise Event npwd-contact-getAll:0ea88116-ae56-45e1-8598-b080c9f17de5 (6.0514ms), Data >>","module":"events","timestamp":"2024-12-20T21:04:41.399Z"}
+{"level":"silly","message":{"data":[],"status":"ok"},"module":"events","timestamp":"2024-12-20T21:04:41.399Z"}
+{"level":"info","message":"Executed query (\n        SELECT *\n        FROM npwd_twitter_profiles\n        WHERE identifier = ?\n        LIMIT 1\n\t\t [\"1\"]) in 0.574ms'","module":"DBInterface","timestamp":"2024-12-20T21:04:41.400Z"}
+{"level":"silly","message":"Response Promise Event npwd:getOrCreateTwitterProfile:9436b8cb-04be-4409-9828-d62f0293fc1b (8.1973ms), Data >>","module":"events","timestamp":"2024-12-20T21:04:41.400Z"}
+{"level":"silly","message":{"data":{"avatar_url":"https://i.fivemanage.com/images/3ClWwmpwkFhL.png","createdAt":"2024-12-20T21:04:41.000Z","id":1,"identifier":"1","profile_name":"Shino_Shino","updatedAt":"2024-12-20T21:04:41.000Z"},"status":"ok"},"module":"events","timestamp":"2024-12-20T21:04:41.400Z"}
+{"level":"info","message":"Executed query (\n        SELECT *,\n               UNIX_TIMESTAMP(updatedAt) AS lastActive\n        FROM npwd_match_profiles\n        WHERE identifier = ?\n        LIMIT 1\n\t\t [\"1\"]) in 0.3927ms'","module":"DBInterface","timestamp":"2024-12-20T21:04:41.402Z"}
+{"level":"silly","message":"Response Promise Event phone:getMyProfile:fb5a7910-d2fb-4366-a2dd-38ac98a9d803 (9.7547ms), Data >>","module":"events","timestamp":"2024-12-20T21:04:41.402Z"}
+{"level":"silly","message":{"data":{"bio":"","createdAt":"2024-12-20T21:04:41.000Z","id":1,"identifier":"1","image":"https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg","job":"","lastActive":1734728681,"lastActiveFormatted":"Fri, 20 Dec 2024 21:04:41 GMT","location":"","name":"Shino Shino","tagList":[],"tags":"","updatedAt":"2024-12-20T21:04:41.000Z","viewed":false,"voiceMessage":null},"status":"ok"},"module":"events","timestamp":"2024-12-20T21:04:41.402Z"}

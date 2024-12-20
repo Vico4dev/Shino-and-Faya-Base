@@ -1,0 +1,9 @@
+HOW TO INSTALL
+
+1. drag the "sl63amg22" folder into your "resources" folder
+
+2. add the following line to your server.cfg
+
+start sl63amg22
+
+3. have fun !

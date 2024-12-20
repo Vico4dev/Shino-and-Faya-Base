@@ -1,0 +1,32 @@
+{"level":"debug","message":"Marketplace service started","module":"marketplace","timestamp":"2024-12-20T16:22:04.002Z"}
+{"level":"debug","message":"Call service started","module":"calls","timestamp":"2024-12-20T16:22:04.003Z"}
+{"level":"debug","message":"Player Service started","module":"player","timestamp":"2024-12-20T16:22:04.003Z"}
+{"level":"info","message":"Loading NPWD Standalone","timestamp":"2024-12-20T16:22:04.003Z"}
+{"level":"debug","message":"Boot service started","module":"boot","timestamp":"2024-12-20T16:22:04.003Z"}
+{"level":"debug","message":"Messages service started","module":"messages","timestamp":"2024-12-20T16:22:04.003Z"}
+{"level":"debug","message":"Notes service started","module":"notes","timestamp":"2024-12-20T16:22:04.003Z"}
+{"level":"debug","message":"Contacts service started","module":"contact","timestamp":"2024-12-20T16:22:04.003Z"}
+{"level":"debug","message":"Photo service started","module":"photo","timestamp":"2024-12-20T16:22:04.012Z"}
+{"level":"debug","message":"Twitter service started","module":"twitter","timestamp":"2024-12-20T16:22:04.013Z"}
+{"level":"debug","message":"Match service started","module":"match","timestamp":"2024-12-20T16:22:04.013Z"}
+{"level":"debug","message":"Beginning database schema validation","module":"boot","timestamp":"2024-12-20T16:22:04.095Z"}
+{"level":"info","message":"Successfully started","timestamp":"2024-12-20T16:22:04.103Z"}
+{"level":"info","message":"Executed query (SELECT COUNT(*) as count\n                       FROM information_schema.tables\n                       WHERE table_schema = ?\n                         AND table_name = ? [\"ox_core_659976\",\"characters\"]) in 25.1899ms'","module":"DBInterface","timestamp":"2024-12-20T16:22:04.121Z"}
+{"level":"info","message":"Executed query (SHOW COLUMNS IN characters []) in 11.3001ms'","module":"DBInterface","timestamp":"2024-12-20T16:22:04.132Z"}
+{"level":"debug","message":"Database schema successfully validated","module":"boot","timestamp":"2024-12-20T16:22:04.132Z"}
+{"level":"debug","message":"Marketplace service started","module":"marketplace","timestamp":"2024-12-20T16:24:57.073Z"}
+{"level":"debug","message":"Call service started","module":"calls","timestamp":"2024-12-20T16:24:57.074Z"}
+{"level":"debug","message":"Player Service started","module":"player","timestamp":"2024-12-20T16:24:57.074Z"}
+{"level":"info","message":"Loading NPWD Standalone","timestamp":"2024-12-20T16:24:57.074Z"}
+{"level":"debug","message":"Boot service started","module":"boot","timestamp":"2024-12-20T16:24:57.074Z"}
+{"level":"debug","message":"Messages service started","module":"messages","timestamp":"2024-12-20T16:24:57.074Z"}
+{"level":"debug","message":"Notes service started","module":"notes","timestamp":"2024-12-20T16:24:57.075Z"}
+{"level":"debug","message":"Contacts service started","module":"contact","timestamp":"2024-12-20T16:24:57.075Z"}
+{"level":"debug","message":"Photo service started","module":"photo","timestamp":"2024-12-20T16:24:57.085Z"}
+{"level":"debug","message":"Twitter service started","module":"twitter","timestamp":"2024-12-20T16:24:57.085Z"}
+{"level":"debug","message":"Match service started","module":"match","timestamp":"2024-12-20T16:24:57.085Z"}
+{"level":"debug","message":"Beginning database schema validation","module":"boot","timestamp":"2024-12-20T16:24:57.153Z"}
+{"level":"info","message":"Successfully started","timestamp":"2024-12-20T16:24:57.161Z"}
+{"level":"info","message":"Executed query (SELECT COUNT(*) as count\n                       FROM information_schema.tables\n                       WHERE table_schema = ?\n                         AND table_name = ? [\"ox_core_659976\",\"characters\"]) in 26.6063ms'","module":"DBInterface","timestamp":"2024-12-20T16:24:57.180Z"}
+{"level":"info","message":"Executed query (SHOW COLUMNS IN characters []) in 12.0131ms'","module":"DBInterface","timestamp":"2024-12-20T16:24:57.192Z"}
+{"level":"debug","message":"Database schema successfully validated","module":"boot","timestamp":"2024-12-20T16:24:57.192Z"}
